@@ -6,7 +6,9 @@ The purpose of this project is to demonstrate your ability to collect, work with
 ## project objectives
 This repo contains source datasets (traina and test) and a tidy dataset where train and test datasets are merged and cleansed. In addtional, a code book(CodeBook.md) is also included showing the data profile dataset generated from run_analysis.R
 
-## How to use 
+## How to reuse this project
+1. Download the source datasets onto a local folder
+2. Either fork this repo to local R Studio and run R script run_analysis.R from there or open the R script in a text file, copy and phase the codes to R and run it. A markdown will be called 
 
 
 
